@@ -1,3 +1,11 @@
+# Affordances Experiment
+
+This project is contains the code and assets for our XR Prototype on AR and VR.
+
+This project was based on the MRTK Quest Sample Project by provencher. See below:
+
+---
+
 # MRTK-Quest-Sample
 
 Sample project for setting up with [MRTK-Quest](https://github.com/provencher/MRTK-Quest). Used only for educational purposes.
